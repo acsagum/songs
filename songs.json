@@ -1,0 +1,42 @@
+{ 
+    "song1" : {
+    "song" : "GTG",
+    "artist" : "Freddie Dredd",
+    "genre" : "Phonk",
+    "link": "https://www.youtube.com/watch?v=fslK9YTkcc0",
+    "id": "1"
+    },
+
+    "song2" : {
+    "song" : "STFU",
+    "artist" : "Pink Guy",
+    "genre" : "Hip-Hop",
+    "link": "https://www.youtube.com/watch?v=OLpeX4RRo28",
+    "id": "2"
+    },
+
+    "song3" : {
+    "song" : "Jimmy Bondoc",
+    "artist" : "Let Me Be The One",
+    "genre" : "Indie",
+    "link": "https://www.youtube.com/watch?v=yrFRypYaFm0",
+    "id": "3"
+    },
+
+    "song4" : {
+    "song" : "Orange & Lemons",
+    "artist" : "Hanggang Kailan",
+    "genre" : "OPM",
+    "link": "https://www.youtube.com/watch?v=qMbL67TjnJk",
+    "id": "4"
+    },
+
+    "song5" : {
+    "song" : "When I Met You",
+    "artist" : "APO Hiking Society",
+    "genre" : "Pop",
+    "link": "https://www.youtube.com/watch?v=oSz0dD5Wowg",
+    "id": "5"
+    }
+        
+}
